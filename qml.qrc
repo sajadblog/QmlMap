@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Plane.qml</file>
+        <file>functions/jsonParser.js</file>
+        <file>icon/Steren_Polygone.png</file>
+        <file>icon/Steren_rectangle.png</file>
+        <file>icon/Steren_circle.png</file>
+        <file>icon/airplane.png</file>
+    </qresource>
+</RCC>

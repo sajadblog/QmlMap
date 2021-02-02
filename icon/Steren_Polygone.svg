@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:docname="Steren_Polygone.svg"
+   viewBox="0 0 24 24"
+   sodipodi:version="0.32"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:version="0.91 r13725"
+   width="100%"
+   height="100%"
+   inkscape:export-filename="/home/hosseinisajad/project/airMonitoring/QMagicReporter/Region/icon/Steren_Polygone.png"
+   inkscape:export-xdpi="240"
+   inkscape:export-ydpi="240">
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-y="0"
+     pagecolor="#ffffff"
+     inkscape:window-height="705"
+     inkscape:zoom="15.762589"
+     inkscape:window-x="0"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="7.5419683"
+     inkscape:cy="11.470656"
+     inkscape:window-width="1358"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px"
+     inkscape:window-maximized="0" />
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4164"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop4166" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:0;"
+         offset="1"
+         id="stop4168" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3787">
+      <stop
+         style="stop-color:#75909d;stop-opacity:1;"
+         offset="0"
+         id="stop3789" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3791" />
+    </linearGradient>
+  </defs>
+  <g
+     id="layer1"
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     transform="translate(-304.05,-955.99)">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 313.1837,963.86778 1.49245,-5.50335 8.38504,0.17946 -4.16707,9.74671 5.02911,9.69738 -11.53239,0.0579 0.40162,-6.41505 -5.7855,-6.3801 z"
+       id="rect3779"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <text
+       id="text3357"
+       y="1484.8417"
+       x="584.37854"
+       style="font-size:40px;font-style:italic;opacity:0.92000002;fill:#000000;font-family:Arabic Typesetting"
+       xml:space="preserve"><tspan
+         id="tspan3359"
+         y="1484.8417"
+         x="584.37854"
+         sodipodi:role="line" /></text>
+    <path
+       id="path4113"
+       style="opacity:0.61438;fill-opacity:0"
+       d="m -81.363,1957.8 c -15.208,-0.5829 -30.483,0.3773 -45.582,2.2005 -7.9778,0.9633 -15.913,2.2529 -23.869,3.3794 -52.775,8.7811 -104.4,23.598 -153.91,43.853 -9.1184,3.7304 -18.041,7.9214 -27.062,11.882 -22.272,10.889 -45.505,21.054 -64.849,36.914 -1.5648,1.2829 -3.0026,2.7135 -4.5038,4.0702 l -12.566,5.1141 c 1.707,-1.4764 3.3507,-3.0291 5.1209,-4.4291 5.9818,-4.7309 12.29,-8.9904 18.836,-12.907 20.757,-12.419 42.038,-23.938 64.192,-33.691 8.8306,-3.7959 17.573,-7.8033 26.492,-11.388 50.169,-20.164 102.33,-35.044 155.49,-44.846 8.343,-1.3983 16.665,-2.9307 25.029,-4.195 16.33,-2.4683 32.777,-4.0868 49.278,-4.7409 l -12.09,8.7835 z"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text4071"
+       y="1210.1509"
+       x="584.37848"
+       style="font-size:40px;font-style:italic;opacity:0.92000002;fill:#000000;font-family:Arabic Typesetting"
+       xml:space="preserve"><tspan
+         id="tspan4073"
+         y="1210.1509"
+         x="584.37848"
+         sodipodi:role="line" /></text>
+    <ellipse
+       style="fill:#43a21f;fill-opacity:1;stroke:none;stroke-width:0.66799998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path5608-0-7"
+       cx="322.96509"
+       cy="958.40533"
+       rx="1.327325"
+       ry="1.2476854" />
+    <ellipse
+       style="fill:#43a21f;fill-opacity:1;stroke:none;stroke-width:0.66799998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path5608-0-7-6"
+       cx="314.70816"
+       cy="958.4834"
+       rx="1.327325"
+       ry="1.2476854" />
+    <ellipse
+       style="fill:#43a21f;fill-opacity:1;stroke:none;stroke-width:0.66799998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path5608-0-7-63"
+       cx="313.18555"
+       cy="963.62213"
+       rx="1.327325"
+       ry="1.2476854" />
+    <ellipse
+       style="fill:#43a21f;fill-opacity:1;stroke:none;stroke-width:0.66799998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path5608-0-7-7"
+       cx="307.03174"
+       cy="965.20819"
+       rx="1.327325"
+       ry="1.2476854" />
+    <ellipse
+       style="fill:#43a21f;fill-opacity:1;stroke:none;stroke-width:0.66799998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path5608-0-7-61"
+       cx="312.74146"
+       cy="971.61572"
+       rx="1.327325"
+       ry="1.2476854" />
+    <ellipse
+       style="fill:#43a21f;fill-opacity:1;stroke:none;stroke-width:0.66799998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path5608-0-7-8"
+       cx="312.55115"
+       cy="977.89642"
+       rx="1.327325"
+       ry="1.2476854" />
+    <ellipse
+       style="fill:#43a21f;fill-opacity:1;stroke:none;stroke-width:0.66799998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path5608-0-7-77"
+       cx="323.97058"
+       cy="977.76953"
+       rx="1.327325"
+       ry="1.2476854" />
+    <ellipse
+       style="fill:#43a21f;fill-opacity:1;stroke:none;stroke-width:0.66799998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path5608-0-7-1"
+       cx="319.02216"
+       cy="968.18988"
+       rx="1.327325"
+       ry="1.2476854" />
+  </g>
+  <metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title></dc:title>
+        <dc:date>2009-01-17T12:19:20</dc:date>
+        <dc:description />
+        <dc:source>https://openclipart.org/detail/21187/glossy-circle-by-steren</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Steren</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>aqua</rdf:li>
+            <rdf:li>button</rdf:li>
+            <rdf:li>circle</rdf:li>
+            <rdf:li>crystal</rdf:li>
+            <rdf:li>glossy</rdf:li>
+            <rdf:li>screen</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
